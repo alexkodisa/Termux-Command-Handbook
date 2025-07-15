@@ -76,4 +76,4 @@ Termux is a powerful open-source terminal emulator and Linux environment for And
 - Master network administration commands for monitoring, troubleshooting, and securing network connections.
 
 ### [Chapter 10: Data Management Commands](Chapter10.md)
-- Explore data management commands for manipulating files, directories, and data streams.
+- Explore data management commands for manipulating files, directories, and data streams. 
